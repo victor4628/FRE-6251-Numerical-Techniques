@@ -1,0 +1,6 @@
+.DS_Store
+work/
+
+# Publish the final workbook; retain earlier and renamed copies locally.
+outputs/project2-var/*.xlsm
+!outputs/project2-var/Project II Final.xlsm
